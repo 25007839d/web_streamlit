@@ -12,8 +12,8 @@ st.code("def index(item);""\n"
 
 import pandas as pd
 
-dataset = pd.read_excel(r"Data Source Gap Analysis.xlsx")
-st.dataframe(dataset)
+# dataset = pd.read_excel(r"Data Source Gap Analysis.xlsx")
+# st.dataframe(dataset)
 
 st.header("Products")
 
